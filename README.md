@@ -300,6 +300,20 @@ F1-score multiplied:  0.297039606555
 [65019 52601 13891 ..., 91050 69501 85684]
 
 
+Our system using the second baseline (50):
+
+epoch:
+29
+F1-BAD:  0.377828571429 F1-OK:  0.825792
+F1-score multiplied:  0.312007811657
+Result from the previous epoch on test:
+F1-BAD:  0.375838926174 F1-OK:  0.824185331154
+F1-score multiplied:  0.30976092983
+Result from the previous epoch on test:
+F1-BAD:  0.375838926174 F1-OK:  0.824185331154
+F1-score multiplied:  0.30976092983
+[277392 263419 205214 ..., 318693 663928 274162] 
+
 Our System from scratch:
 
 Epoch 44: \Dev set LL -1.4502707160353072, Acc 0.7684500217437744, Outputs [0 0 1 ..., 1 1 1]
