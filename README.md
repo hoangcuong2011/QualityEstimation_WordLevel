@@ -369,5 +369,24 @@ Result from the previous epoch on test:
 F1-BAD:  0.363473188243 F1-OK:  0.910397321711
 F1-score multiplied:  0.33090501709
 
+250K - baseline
+
+epoch: 
+20
+Result from the previous epoch on dev:
+F1-BAD:  0.345021037868 F1-OK:  0.912508586773
+F1-score multiplied:  0.314834659672
+Result from the previous epoch on test:
+F1-BAD:  0.376433299152 F1-OK:  0.891255222643
+F1-score multiplied:  0.335498143846
+Result from the previous epoch on test:
+F1-BAD:  0.376433299152 F1-OK:  0.891255222643
+F1-score multiplied:  0.335498143846
+[ 40537 106670  99084 ..., 465976 431894 328479]
+
+
+
+250K - our with pre-training
+
 
 
