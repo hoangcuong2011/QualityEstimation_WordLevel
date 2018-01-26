@@ -333,3 +333,41 @@ F1-score multiplied:  0.320188153017
 [14778  2137 90965 ..., 64635 39911 91933]
 
 
+
+
+150K - baseline
+
+epoch: 
+18
+Result from the previous epoch on dev:
+F1-BAD:  0.378873416133 F1-OK:  0.845421336913
+F1-score multiplied:  0.320307669989
+Result from the previous epoch on test:
+F1-BAD:  0.381671826625 F1-OK:  0.843602192639
+F1-score multiplied:  0.32197918981
+Result from the previous epoch on test:
+F1-BAD:  0.381671826625 F1-OK:  0.843602192639
+F1-score multiplied:  0.32197918981
+[ 22531 226853 156288 ...,  68501 158186 123983]
+epoch:
+
+
+our with pre-training
+
+Epoch 41: \Dev set LL -0.8913153005129318, Acc 0.8627148270606995, Outputs [1 1 1 ..., 1 1 1]
+Result from the previous epoch on dev:
+F1-BAD:  0.318007662835 F1-OK:  0.923675344564
+F1-score multiplied:  0.293735837543
+Epoch 41: 
+Test set LL -0.9997744638389547, Acc 0.8429081439971924, Outputs [1 1 1 ..., 1 0 1]
+Result from the previous epoch on test:
+F1-BAD:  0.363473188243 F1-OK:  0.910397321711
+F1-score multiplied:  0.33090501709
+Epoch 41: 
+Test set LL -0.9997744638389547, Acc 0.8429081439971924, Outputs [1 1 1 ..., 1 0 1]
+Result from the previous epoch on test:
+F1-BAD:  0.363473188243 F1-OK:  0.910397321711
+F1-score multiplied:  0.33090501709
+
+
+
