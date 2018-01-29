@@ -390,3 +390,49 @@ F1-score multiplied:  0.335498143846
 
 
 
+
+--------------------------------------------------
+
+Quality estimation at word level - official result
+epoch:
+5
+
+Baseline:
+Result from the previous epoch on dev:
+F1-BAD:  0.422644594318 F1-OK:  0.910063353602
+
+F1-score multiplied:  0.384633356887
+
+Result from the previous epoch on test:
+
+F1-BAD:  0.390389156998 F1-OK:  0.905006480104
+
+F1-score multiplied:  0.353304716845
+
+
+
+
+our:
+
+Epoch 1: \Dev set LL -0.46044845324046224, Acc 0.8440392017364502, Outputs [0 0 1 ..., 1 1 1]
+
+Result from the previous epoch on dev:
+
+F1-BAD:  0.42471042471 F1-OK:  0.909791925565
+
+F1-score multiplied:  0.386398115105
+
+
+Epoch 1:
+
+
+Test set LL -0.48538649078710794, Acc 0.8367341160774231, Outputs [1 1 1 ..., 1 0 1]
+
+
+Result from the previous epoch on test:
+
+
+F1-BAD:  0.39099452649 F1-OK:  0.905730956758
+
+F1-score multiplied:  0.354135846565
+
